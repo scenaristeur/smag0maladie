@@ -1,0 +1,20 @@
+@prefix : <http://smag0.blogspot.fr/tempPrefix#> . 
+@prefix owl: <http://www.w3.org/2002/07/owl#> . 
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix xml: <http://www.w3.org/XML/1998/namespace> . 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix smag: <http://smag0.blogspot.fr/tempPrefix#> . 
+@base <http://smag0.blogspot.fr/tempPrefix> . 
+<http://smag0.blogspot.fr/tempPrefix> rdf:type owl:Ontology ;  
+                    owl:versionIRI <http://smag0.blogspot.fr/tempPrefix/1.0.0> . 
+ 
+owl:Class rdfs:subClassOf owl:Thing .  
+:xcgd rdf:type :Joueur . 
+:sdfsdfdfg :dffg :fgdfgdfg . 
+:sdfsdfdfg smag:partOf :fgdfgdfg . 
+:gfhfgh smag:partOf :fgdfgdfg . 
+:fghfgh smag:partOf :fgdfgdfg . 
+:fghfgh smag:partOf :dffgh . 
+:Joueur rdf:type owl:Class . 
+smag:partOf rdf:type owl:ObjectProperty . 

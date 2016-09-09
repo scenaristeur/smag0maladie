@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1469695781192" name="http://smag0.blogspot.fr/NS/MaJournee" uri="majournee.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469695781192" name="http://smag0.blogspot.fr/NS/RobotBase" uri="robotBase.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469695781192" name="http://smag0.blogspot.fr/NS/appliSmag0rdf" uri="appliSmag0rdf.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469695781192" name="http://smag0.blogspot.fr/NS/fauneFlore" uri="fauneFlore.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1469695781192" name="http://smag0.blogspot.fr/projet/dreamcatcher" uri="dreamcatcher.owl"/>
+    </group>
+</catalog>
