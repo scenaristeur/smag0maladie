@@ -1,1 +1,0 @@
-python -m SimpleHTTPServer 8080 (or with Python 3 python -m http.server 8080)
